@@ -1,0 +1,28 @@
+.area1 {
+    background-color: #FEEEFE;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 100%; 
+    padding-top: 50px;
+    overflow-x: hidden;
+    justify-content: center;
+}
+
+.text1 {
+    margin-right: 40px;
+}
+
+.text1_1{
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.text1_2{
+    margin-top: 20px;
+}
+
+.image1{
+    width: 600px;
+    height: auto;
+    margin-right: 0px;
+}
