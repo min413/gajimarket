@@ -82,3 +82,17 @@
 .button:hover{
     background-color: #DEECFC;
 }
+
+@media screen and (max-width: 1090px) {
+    .container {
+        justify-content: space-between;
+    }
+
+    .gaji {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+    .menus {
+        display: none;
+    }
+}

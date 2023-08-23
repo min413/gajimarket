@@ -60,6 +60,7 @@
     margin-top: 30px;
 }
 
+
 .buttons1{
     padding-top: 30px;
     
@@ -113,7 +114,6 @@
 
 .text3 {
     margin-right: 100px;
-    
 }
 
 .text3_1{
@@ -197,5 +197,56 @@
 
 .button2_1:hover {
     background-color: #EADBC8;
+}
+
+@media screen and (max-width: 1125px) {
+    .area1 {
+        display: block;
+    }
+
+    .text1 {
+        margin-left: 100px;
+        margin-bottom: 50px;
+    }
+
+    .image1 {
+        margin-left: 100px;
+    }
+
+    .area2 {
+        display: block;
+        margin-bottom: 50px;
+    }
+
+    .image2 {
+        margin-left: 50px;
+    }
+
+    .area3 {
+        display: block;
+    }
+
+    .text3 {
+        margin-left: 100px;
+        margin-bottom: 50px;
+    }
+
+    .image3 {
+        margin-left: 100px;
+    }
+
+    .area4 {
+        display: block;
+        margin-bottom: 50px;
+    }
+
+    .image4 {
+        margin-left: 100px;
+        margin-bottom: 50px;
+    }
+
+    .text4 {
+        margin-left: 100px;
+    }
 }
 

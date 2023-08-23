@@ -26,3 +26,18 @@
     height: auto;
     margin-right: 0px;
 }
+
+@media screen and (max-width: 770px) {
+    .area1 {
+        display: block;
+    }
+
+    .text1 {
+        margin-left: 100px;
+        margin-bottom: 50px;
+    }
+
+    .image1 {
+        margin-left: 100px;
+    }
+}
